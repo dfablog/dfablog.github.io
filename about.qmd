@@ -1,0 +1,18 @@
+---
+title: "We are Dal"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/dalfacultyassoc/
+    - icon: twitter
+      text: X
+      href: https://twitter.com/dalfacultyassoc
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/dalfacultyassoc/
+---
+
+This site was set up to share news and updates during the faculty lockout initiated by the Dalhousie Board of Governors on August 18, 2025.
