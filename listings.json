@@ -1,5 +1,22 @@
 [
   {
+    "listing": "/president.html",
+    "items": [
+      "/president/2025-08-24/index.html",
+      "/president/2025-08-27-update/index.html",
+      "/president/2025-08-27/index.html"
+    ]
+  },
+  {
+    "listing": "/daily-bulletins.html",
+    "items": [
+      "/daily-bulletins/2025-08-28/index.html",
+      "/daily-bulletins/2025-08-27/index.html",
+      "/daily-bulletins/2025-08-26/index.html",
+      "/daily-bulletins/2025-08-24/index.html"
+    ]
+  },
+  {
     "listing": "/media-releases.html",
     "items": [
       "/posts/2025-08-22/index.html",
@@ -8,27 +25,11 @@
     ]
   },
   {
-    "listing": "/daily-bulletins.html",
-    "items": [
-      "/daily-bulletins/2025-08-27/index.html",
-      "/daily-bulletins/2025-08-26/index.html",
-      "/daily-bulletins/2025-08-24/index.html"
-    ]
-  },
-  {
     "listing": "/students.html",
     "items": [
       "/students/2025-08-01/index.html",
       "/students/2025-07-25/index.html",
       "/students/2025-07-10/index.html"
-    ]
-  },
-  {
-    "listing": "/president.html",
-    "items": [
-      "/president/2025-08-24/index.html",
-      "/president/2025-08-27-update/index.html",
-      "/president/2025-08-27/index.html"
     ]
   }
 ]
