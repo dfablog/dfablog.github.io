@@ -2,15 +2,17 @@
   {
     "listing": "/president.html",
     "items": [
+      "/president/2025-09-02/index.html",
+      "/president/2025-08-28/index.html",
       "/president/2025-08-24/index.html",
       "/president/2025-08-27-update/index.html",
-      "/president/2025-08-27/index.html",
-      "/president/2025-08-28/index.html"
+      "/president/2025-08-27/index.html"
     ]
   },
   {
     "listing": "/daily-bulletins.html",
     "items": [
+      "/daily-bulletins/2025-09-02/index.html",
       "/daily-bulletins/2025-08-29/index.html",
       "/daily-bulletins/2025-08-28/index.html",
       "/daily-bulletins/2025-08-27/index.html",
