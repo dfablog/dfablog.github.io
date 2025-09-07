@@ -10,23 +10,26 @@
     ]
   },
   {
-    "listing": "/daily-bulletins.html",
-    "items": [
-      "/daily-bulletins/2025-09-02/index.html",
-      "/daily-bulletins/2025-08-29/index.html",
-      "/daily-bulletins/2025-08-28/index.html",
-      "/daily-bulletins/2025-08-27/index.html",
-      "/daily-bulletins/2025-08-26/index.html",
-      "/daily-bulletins/2025-08-24/index.html"
-    ]
-  },
-  {
     "listing": "/media-releases.html",
     "items": [
       "/posts/2025-08-28/index.html",
       "/posts/2025-08-22/index.html",
       "/posts/2025-08-18/index.html",
       "/posts/2025-07-29/index.html"
+    ]
+  },
+  {
+    "listing": "/daily-bulletins.html",
+    "items": [
+      "/daily-bulletins/2025-09-05/index.html",
+      "/daily-bulletins/2025-09-04/index.html",
+      "/daily-bulletins/2025-09-03/index.html",
+      "/daily-bulletins/2025-09-02/index.html",
+      "/daily-bulletins/2025-08-29/index.html",
+      "/daily-bulletins/2025-08-28/index.html",
+      "/daily-bulletins/2025-08-27/index.html",
+      "/daily-bulletins/2025-08-26/index.html",
+      "/daily-bulletins/2025-08-24/index.html"
     ]
   },
   {
