@@ -12,16 +12,6 @@
     ]
   },
   {
-    "listing": "/media-releases.html",
-    "items": [
-      "/posts/2025-09-11/index.html",
-      "/posts/2025-08-28/index.html",
-      "/posts/2025-08-22/index.html",
-      "/posts/2025-08-18/index.html",
-      "/posts/2025-07-29/index.html"
-    ]
-  },
-  {
     "listing": "/daily-bulletins.html",
     "items": [
       "/daily-bulletins/2025-09-12/index.html",
@@ -38,6 +28,25 @@
       "/daily-bulletins/2025-08-27/index.html",
       "/daily-bulletins/2025-08-26/index.html",
       "/daily-bulletins/2025-08-24/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blogs/international-students-in-limbo/index.html",
+      "/blogs/locked-out-of-opportunity/index.html",
+      "/blogs/locked-out-together/index.html",
+      "/blogs/lockout-v-strike/index.html"
+    ]
+  },
+  {
+    "listing": "/media-releases.html",
+    "items": [
+      "/posts/2025-09-11/index.html",
+      "/posts/2025-08-28/index.html",
+      "/posts/2025-08-22/index.html",
+      "/posts/2025-08-18/index.html",
+      "/posts/2025-07-29/index.html"
     ]
   },
   {
